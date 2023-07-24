@@ -2,7 +2,10 @@
   tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tagdan kadang jugaditambahkan     dengan atribut. contohnya adalah 
   < p > , < a > , < body > , < head >, dan lain sebgainya
 
-# tagHtml
+# fungsi tag Html
+  Fungsi tag HTML adalah berbeda-beda tergantung dari perintahnya, seperti membuat judul, paragraf, heading, cetak tebal (bold), miring (italic), dan lain sebagainya.         Contohnya, jika menuliskan perintah <italic>, tag tersebut akan menampilkan teks dengan format miring/italic di browser. 
+
+# jenis-jenis tag Html
  basic
 - !DOCTYPE : tag untuk menentukan type dokumen
 - html : tag untuk membuat sebuah dokumen HTML
