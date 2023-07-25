@@ -8,7 +8,7 @@
 # jenis-jenis tag Html
  basic
 - < !DOCTYPE >: tag untuk menentukan type dokumen
-- <html >: tag untuk membuat sebuah dokumen HTML
+- < html >: tag untuk membuat sebuah dokumen HTML
 - < title >: tag untuk membuat judul dari sebuah halaman
 - < body >: tag untuk membuat dari tubuh dari sebuah halaman
 - < h1 > to < h6 >: tag untuk membuat heading
@@ -16,8 +16,6 @@
 - < br >: memasukkan satu baris putus
 - < hr >: tag untuk membuat perubahan dasar kata didalam isi
 - < !--...-- >: tag untuk mebuat komentar
-
- formatting 
 - < acronym >: tag untuk membuat sebuah akronim (tidak disupport lagi di HTML5)
 - < abbr >: tag untuk membuat sebuah singkatan
 - < adress >: tag untuk membuat kontak alamat
@@ -56,23 +54,3 @@
 - < u >: tag untuk membuat teks yang memiliki Gaya yang berbeda dari teks biasa lainnya
 - < var >: tag untuk membuat sebuah variabel
 - < wbr >: tag untuk membuat kemungkinan garis-putus
-
-# form
-- < form >: tag untuk membuat sebuah form HTML untuk input pengguna
-- < input >: tag untuk membuat sebuah kontrol input
-- < textarea >: tag untuk membuat sebuah kontrol input multibaris (text area)
-- < button >: tag untuk membuat sebuah tombol yang dapat diklik
-- < select >: tag untuk membuat sebuah daftar drop-down
-- < optgroup >: tag untuk membuat sebuah kelompok pilihan yang terkait dalam daftar drop-down
-- < option >: tag untuk membuat pilihan dalam daftar drop-down
-- < label >: tag untuk membuat sebuah label untuk sebuah elemen <input>
-- < fielset >: grup unsur terkait dalam bentuk
-- < legend >: tag untuk membuat sebuah caption untuk sebuah elemen <fieldset>, < figure>, atau <details>
-- < datalist >: menentukan daftar pilihan yang telah ditetapkan untuk kontrol input (tag baru HTML5)
-- < keygen >: tag untuk membuat key-pair generator kolom input (tag baru HTML5)
-- < output >: tag untuk membuat hasil penghitungan (tag baru HTML5)
-
-frames
--  < frame >: tag untuk membuat sebuah window (bingkai) dalam sebuah frameset (tidak disupport lagi di HTML5)
--  < frameset >: tag untuk membuat satu set bingkai (tidak disupport lagi di HTML5)
--  < iframe >: tag untuk membuat sebuah bingkai
