@@ -1,6 +1,6 @@
 # pengertian tag dalam html
   tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tagdan kadang jugaditambahkan     dengan atribut. contohnya adalah 
-  < p > , < a > , < body > , < head >, dan lain sebgainya
+ ```<p>``` ,```<a>```, ```<body>``` , ```<head>```, dan lain sebgainya
 
 # fungsi tag Html
   Fungsi tag HTML adalah berbeda-beda tergantung dari perintahnya, seperti membuat judul, paragraf, heading, cetak tebal (bold), miring (italic), dan lain sebagainya.         Contohnya, jika menuliskan perintah <italic>, tag tersebut akan menampilkan teks dengan format miring/italic di browser. 
